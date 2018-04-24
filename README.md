@@ -22,5 +22,17 @@
 `$ python manage.py migrate`  
 `$ python manage.py runserver 0:8000`
 
+### Creating models
+1. Add database table to polls/models.py
+2. Add pools to mysite/settings.py
+3. create database table  
+`$ python manage.py makemigrations polls`  
+4. add polls to admin page(polls/admin.py)
+5. test app<[localhost:8000](http://localhost:8000)>  
+`$ python manage.py migrate`  
+`$ python manage.py runserver 0:8000`
+
+### Creating an admin user  
+`python manage.py createsuperuser`  
 
     
