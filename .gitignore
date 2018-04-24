@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+*.swp
+.DB_Store
+db.sqlite3
