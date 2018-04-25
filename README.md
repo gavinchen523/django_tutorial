@@ -39,3 +39,8 @@
 1. modify polls/views.py
 2. modify polls/urls   
 
+### Add template
+1. add polls/templates/polls/index.html
+2. modify polls/views.py
+
+
