@@ -35,4 +35,7 @@
 ### Creating an admin user  
 `python manage.py createsuperuser`  
 
-    
+### Write more views
+1. modify polls/views.py
+2. modify polls/urls   
+
