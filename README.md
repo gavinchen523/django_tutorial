@@ -46,3 +46,5 @@
 ### shortcut :render 
 1. modify polls/views.py
 
+### test get_object_or_404
+1. modify polls/views.py
