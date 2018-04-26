@@ -43,4 +43,6 @@
 1. add polls/templates/polls/index.html
 2. modify polls/views.py
 
+### shortcut :render 
+1. modify polls/views.py
 
